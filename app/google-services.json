@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861513976583",
+    "firebase_url": "https://carbooking-83824-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carbooking-83824",
+    "storage_bucket": "carbooking-83824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861513976583:android:46adbd755a5db031ae13a2",
+        "android_client_info": {
+          "package_name": "com.example.carbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66J_d3clb0piuS9rJuNwWg_TzR9QxbsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
